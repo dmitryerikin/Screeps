@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": ".",
+    "noUnusedParameters": true,
+    "noErrorTruncation": true,
+    "module": "commonJs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "pretty": true,
+    "target": "esnext",
+    "lib": ["esnext"],
+    "baseUrl": ".",
+    "strict": true,
+    "noEmit": true,
+  },
+  "include": ["tutorial-final_test"],
+}
